@@ -6,9 +6,9 @@ public class Partido {
     private int golesEquipo1;
     private int golesEquipo2;
 
-    public String resultado(Equipo) {
+/*    public String resultado(Equipo) {
         return "resultado";
-    }
+    }*/
 
     public Partido() {
     }
